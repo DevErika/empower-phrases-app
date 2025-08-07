@@ -6,6 +6,14 @@
 
 ---
 
+
+## 📝 About this fork
+
+This version is maintained for deployment and sharing purposes only.  
+No changes will be pushed to the team repo. ❤️
+
+---
+
 ## ✨ What is this?
 
 This is a fully responsive web app where users can create, edit, and delete empowering phrases — each tied to an author and optionally an image.
@@ -16,17 +24,9 @@ This fork exists to host the final version of the project for personal deploymen
 
 ---
 
-## 🔍 Sneak Peek
-
-![Preview of the App](./public/screenshots/homepage-preview.png)
-
-> *(Add a real screenshot above — you can save one from your browser and drop it into `public/screenshots/`)*
-
----
-
 ## 🚀 Live Demo
 
-🌐 [https://YOUR_SITE_NAME.netlify.app](https://YOUR_SITE_NAME.netlify.app)
+🌐 [https://https://gardenofthoughts.netlify.app/](https://gardenofthoughts.netlify.app/)
 
 ---
 
@@ -61,8 +61,4 @@ This fork exists to host the final version of the project for personal deploymen
 
 ---
 
-## 📝 About this fork
-
-This version is maintained for deployment and sharing purposes only.  
-No changes will be pushed to the team repo. ❤️
 
