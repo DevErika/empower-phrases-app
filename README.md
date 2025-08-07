@@ -1,73 +1,68 @@
 # 🌱 Empowering Phrases App
 
-Welcome! This is a simple, responsive web app where you can create, read, update, and delete empowering phrases, each one tied to an author and an image. It's built with **React.js 19** and follows the **UI Atomic Design** in Figma to keep everything modular and scalable.
+
+
+> _Final deployed version of the Empowering Phrases App — built with React, styled with Sass, and designed as a collaborative team project at Factoria F5._
 
 ---
+
+## ✨ What is this?
+
+This is a fully responsive web app where users can create, edit, and delete empowering phrases — each tied to an author and optionally an image.
+
+🛠 Built with **React 19**, **Sass**, **Atomic Design**, and **Vitest** for testing.
+
+This fork exists to host the final version of the project for personal deployment and presentation purposes — preserving the amazing teamwork behind it 💛
+
+---
+
 ## 🔍 Sneak Peek
 
-Here’s what the app looks like:
+![Preview of the App](./public/screenshots/homepage-preview.png)
 
-![Screenshot of Empowering Phrases App](./src/assets/sneakPeek2.png)
-
-## 🧠 How It Works
-
-Here’s what users can do in the app:
-
-- ✅ View all the phrases and their authors  
-- ✅ Add a new phrase and author  
-- ✅ Edit any existing phrase or author name  
-- ✅ Delete any phrase  
-- ✅ Add an image URL (optional)
+> *(Add a real screenshot above — you can save one from your browser and drop it into `public/screenshots/`)*
 
 ---
 
-## ⚙️ Tech Stack
+## 🚀 Live Demo
 
-We used the following technologies to bring this project to life:
-
-- **React.js 19** (Functional Components + Hooks)
-- **JavaScript (ES6+)**
-- **HTML5 & CSS3**
-- **Sass** (SCSS modules for styling)
-- **Node.js v24** (Latest version)
-- **Vitest 3.2.4** (for unit testing)
+🌐 [https://YOUR_SITE_NAME.netlify.app](https://YOUR_SITE_NAME.netlify.app)
 
 ---
 
-## 🧾 Getting Started
+## 🧠 Features
 
-To run the app locally, follow these steps:
-
-1. Clone the repository
-
-    git clone https://github.com/hgall3/empower-phrases-app.git
-
-2. Move into the project directory
-
-    cd empowering-phrases-app
-
-3. Install dependencies
-
-    npm install
-
-4. Start the development server
-
-    npm run dev
-
-
-## 👥 The Team
-
-This app was built as a team by:
-
-* [Montserrat Muñoz](https://github.com/Montc027) → Developer
-* [Paola Pulga](https://github.com/Pao-Pul) → Product Owner
-* [Daniella Pacheco](https://github.com/DaniPacheco8) → Developer
-* [Gabriela Gallegos](https://github.com/hgall3) → Scrum Master & Developer
-* [Erika P. Montoya](https://github.com/DevErika) → Developer
+- ✅ View a list of inspiring quotes and their authors  
+- ✅ Add new phrases with author and image  
+- ✅ Edit or delete any phrase  
+- ✅ Fully responsive design  
+- ✅ Clean component structure with Atomic Design  
 
 ---
 
+## 💻 Tech Stack
 
+- React.js 19 (Functional Components + Hooks)  
+- JavaScript (ES6+)  
+- Sass (SCSS modules for styling)  
+- Node.js (latest LTS)  
+- Vitest (for unit testing)  
+- Vite (for fast bundling)
 
+---
 
+## 👥 Built by an amazing team
+
+- [Montserrat Muñoz](https://github.com/Montc027)  
+- [Paola Pulga](https://github.com/Pao-Pul)  
+- [Daniella Pacheco](https://github.com/DaniPacheco8)  
+- [Gabriela Gallegos](https://github.com/hgall3)  
+- [Erika P. Montoya](https://github.com/DevErika) ✨ (this fork)
+
+---
+
+## 📝 About this fork
+
+This version is maintained for deployment and sharing purposes only.  
+No changes will be pushed to the team repo. ❤️
 
